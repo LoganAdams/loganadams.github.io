@@ -1,1 +1,7 @@
+# Configure Jekyll
+
+title: logan.ac
+
+author: Logan Adams
+
 theme: jekyll-theme-modernist
